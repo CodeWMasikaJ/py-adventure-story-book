@@ -4,14 +4,14 @@ This is a basic text-based adventure game. You'll make choices by typing command
 
 ## How to Play
 
-1.  **Run the Python script** (e.g., `python adventure.py`).
+1.  **Run the Python script** (e.g., `py-adventure-story-book`).
 2.  The game will show you a scene and ask you to make a choice.
 3.  Type in your choice (e.g., "left," "right," "investigate," "run") and press Enter.
 4.  The game will continue based on your choices.
 
 ## Files
 
-* `adventure.py`: The Python code for the adventure game.
+* `py-adventure-story-book`: The Python code for the adventure game.
 
 ## How it Works
 
